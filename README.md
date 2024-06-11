@@ -1,1 +1,1 @@
-# Customer-segementation-
+Customer segmentation using K-means clustering involves grouping customers into distinct clusters based on similarities in their behavior and attributes, such as purchase history and demographics. This method helps businesses tailor marketing strategies, improve customer service, and enhance product offerings by targeting specific segments more effectively.
